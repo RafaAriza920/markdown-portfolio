@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Imagen de hacker](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI4VH1hslwYfoWENurm4nCrb3MMV_gcVtDwg&usqp=CAU)
